@@ -9,7 +9,7 @@
 import Foundation
 
 // print program header
-print("HW2-HappyNumbers")
+print("Apple_HW2_HappyNumbers")
 print("Type 'e' to exit")
 
 //loop for geting int from user
